@@ -1,0 +1,10 @@
+python-dotenv
+openai
+llama-index
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+
+# llama-index-vector-stores-milvus
+llama-index-vector-stores-faiss
+pymilvus>=2.4.2
+llama-index-extractors-entity
